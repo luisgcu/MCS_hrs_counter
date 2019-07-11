@@ -1,5 +1,5 @@
 # Machine control Studio hours counter.
-Simple function to count working time of Control Techniques VFD  drives "unidrive M family" ( code runs on the on-board PLC).
+Simple function to count working time of Control Techniques VFD  drives "unidrive M family" ( code runs on the on-board PLC). Working time is stored in power down save parameter.
 
 It can be loaded on the internal plc of  any model  starting with the C200/300, M200, M400, M70x.
 
