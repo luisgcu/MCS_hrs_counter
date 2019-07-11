@@ -5,7 +5,7 @@ It can be loaded on the internal plc of  any model  starting with the C200/300, 
 
 **The function block**.
 
-![1562869816354](C:\Users\aguerrero\AppData\Roaming\Typora\typora-user-images\1562869816354.png)
+![](https://github.com/luisgcu/MCS_hrs_counter/blob/master/docs/FB1.jpg)
 
 **How it works.**
 
@@ -39,5 +39,9 @@ The first to do is to enter desire time to count ( time can be  entered in secon
 
 ### Function block working  on a program.
 
-![1562872404944](C:\Users\aguerrero\AppData\Roaming\Typora\typora-user-images\1562872404944.png)
+![](https://github.com/luisgcu/MCS_hrs_counter/blob/master/docs/FB2.jpg)
+
+
+
+
 
