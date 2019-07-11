@@ -1,4 +1,5 @@
 # Ignore these extension on Machine control studio
 *.~u
 *.opt
+*.compileinfo
 
